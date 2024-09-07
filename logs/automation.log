@@ -1,0 +1,26 @@
+2024-09-07 13:53:28 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-09-07 13:53:28 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2024-09-07 13:53:29 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2024-09-07 13:53:29 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2024-09-07 13:53:31 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
+2024-09-07 13:53:31 INFO  TC001_AccountRegistrationTest:47 - Test passed
+2024-09-07 13:53:31 INFO  TC001_AccountRegistrationTest:56 - ***** Finished TC001_AccountRegistrationTest *****
+2024-09-07 13:53:37 INFO  TC002_LoginTest:16 - ****** Startign TC_002_LoginTest *****
+2024-09-07 13:53:39 INFO  TC002_LoginTest:41 - ****** Finished TC_002_LoginTest *****
+2024-09-07 13:53:44 INFO  TC_004_SearchProductTest:14 -  Starting TC_004_SearchProductTest 
+2024-09-07 13:53:45 INFO  TC_004_SearchProductTest:34 -  Finished TC_004_SearchProductTest 
+2024-09-07 13:53:51 INFO  TC_005_AddToCartPageTest:15 -  Starting TC_005_AddToCartPageTest 
+2024-09-07 13:53:53 INFO  TC_005_AddToCartPageTest:41 -  Finished TC_004_SearchProductTest 
+2024-09-07 13:55:26 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-09-07 13:55:26 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2024-09-07 13:55:27 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2024-09-07 13:55:27 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2024-09-07 13:55:29 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
+2024-09-07 13:55:29 INFO  TC001_AccountRegistrationTest:47 - Test passed
+2024-09-07 13:55:29 INFO  TC001_AccountRegistrationTest:56 - ***** Finished TC001_AccountRegistrationTest *****
+2024-09-07 13:55:35 INFO  TC002_LoginTest:16 - ****** Startign TC_002_LoginTest *****
+2024-09-07 13:55:36 INFO  TC002_LoginTest:41 - ****** Finished TC_002_LoginTest *****
+2024-09-07 13:55:42 INFO  TC_004_SearchProductTest:14 -  Starting TC_004_SearchProductTest 
+2024-09-07 13:55:43 INFO  TC_004_SearchProductTest:34 -  Finished TC_004_SearchProductTest 
+2024-09-07 13:55:48 INFO  TC_005_AddToCartPageTest:15 -  Starting TC_005_AddToCartPageTest 
+2024-09-07 13:55:50 INFO  TC_005_AddToCartPageTest:41 -  Finished TC_004_SearchProductTest 
